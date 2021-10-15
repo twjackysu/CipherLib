@@ -1,0 +1,3 @@
+[submodule "StockLib"]
+	path = StockLib
+	url = https://github.com/TWKuanLun/StockLib.git
